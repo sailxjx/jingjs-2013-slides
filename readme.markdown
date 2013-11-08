@@ -1,4 +1,16 @@
-the open source life
+the wizard of moduletopia
+
+# what is modularity
+
+"Do one thing well."
+
+"Compose larger units out of smaller, independent units of functionality."
+
+# dorothy
+
+we've got to find the module city
+
+# 
 
 # a culture of modularity
 
@@ -16,10 +28,19 @@ to exist and then go make them!
 # getting modularity right
 
 * qualified imports
+* tiny core functionality
 
 # case study in modularity: leveldb
 
 geospatial indexes
+
+instead of relying on the database vendor to give us
+we can use a module that somebody has written
+
+instead
+
+we could have also written the same module ourselves and then published the
+result
 
 # finding modules
 
